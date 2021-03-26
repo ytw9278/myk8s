@@ -1,1 +1,1 @@
-FROM gcr.io/spinnaker-marketplace/rosco:0.18.2-20200514040017
+FROM gcr.io/spinnaker-marketplace/clouddriver:6.7.7-20200529092055
