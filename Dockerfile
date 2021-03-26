@@ -1,1 +1,1 @@
-FROM gcr.io/spinnaker-marketplace/gate:1.15.3-20200521154245
+FROM gcr.io/spinnaker-marketplace/clouddriver
